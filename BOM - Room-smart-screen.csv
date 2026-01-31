@@ -1,0 +1,35 @@
+Id,Designator,Footprint,Quantity,Comment,LCSC quantity,Price,Link
+1,"C1,C2,C4",C_0603_1608Metric,3,10uF,10,$0.41,https://www.lcsc.com/product-detail/C342875.html
+2,"CR3,CR1,CR2",CR_R1_00001_PNJ,3,SS2040FL_R1_00001,10,$0.65,https://www.lcsc.com/product-detail/C7320202.html
+3,R14,R_0805_2012Metric,2,0.47R,100,$0.48,https://www.lcsc.com/product-detail/C2930220.html
+4,"R8,R7",R_0603_1608Metric,2,4.7K,100,$0.13,https://www.lcsc.com/product-detail/C99782.html
+5,"C8,C12,C9,C10,C15,C13,C11",C_0603_1608Metric,7,"4.7uF, 25V",10,$0.16,https://www.lcsc.com/product-detail/C69335.html
+6,"C6,C7,C5,C16",C_0603_1608Metric,4,100nF,100,$0.35,https://www.lcsc.com/product-detail/C1590.html
+7,J1,USB_C_Receptacle_XKB_U262-16XN-4BVC11,2,USB_C_Receptacle_USB2.0_14P,5,$0.89,https://www.lcsc.com/product-detail/C165948.html
+8,SW2,SW_SPST_TS-1088-xR020,2,reset/boot,10,$0.45,https://www.lcsc.com/product-detail/C2846765.html
+9,"R11,R12",R_0603_1608Metric,2,33R,100,$0.10,https://www.lcsc.com/product-detail/C2909394.html
+10,U6,XCVR_ESP32-S3-WROOM-1-N4,2,ESP32-S3-WROOM-1-N4,2,$8.85,https://www.lcsc.com/product-detail/C2913197.html
+11,R5,R_0603_1608Metric,1,3K,100,$0.10,https://www.lcsc.com/product-detail/C2907033.html
+12,U5,QFN100P300X300X100-7N,1,HTU21D,2,$4.29,https://www.lcsc.com/product-detail/C83479.html
+13,J2,SW_B3U-1000P,1,battery connector,5,$0.64,https://www.lcsc.com/product-detail/C5251182.html
+14,"R10,R13,R4",R_0603_1608Metric,2,10K,100,$0.11,https://www.lcsc.com/product-detail/C25804.html
+15,S1,SW_SLW-66527511-SMT-TR,1,SLW-66527511-SMT-TR,5,$0.39,https://www.lcsc.com/product-detail/C49023765.html
+16,"D3,D2",LED_0603_1608Metric,2,LED,100,$0.58,https://www.lcsc.com/product-detail/C19171392.html
+18,"R2,R1",R_0603_1608Metric,2,5.1K,100,$0.12,https://www.lcsc.com/product-detail/C23186.html
+19,U4,SOT-23-5,1,MCP73831-3-OT,3,$2.18,https://www.lcsc.com/product-detail/C424093.html
+20,J3,AMPHENOL_F34G-1A7Q1-E8C24,1,F34G-1A7Q1-E8C24,5,$0.25,https://www.lcsc.com/product-detail/C53223239.html
+21,R16,R_0603_1608Metric,1,1K,100,$0.13,https://www.lcsc.com/product-detail/C22548.html
+22,D1,D_SMA,1,SS14,5,$0.61,https://www.lcsc.com/product-detail/C83852.html
+23,R6,R_0603_1608Metric,1,470,100,$0.12,https://www.lcsc.com/product-detail/C23179.html
+24,"C14,C17",C_0603_1608Metric,2,"4.7uF,25V",50,$0.44,https://www.lcsc.com/product-detail/C6119856.html
+25,R3,R_0603_1608Metric,1,100K,100,$0.13,https://www.lcsc.com/product-detail/C14675.html
+26,L1,L_Taiyo-Yuden_MD-4040,1,10uH,5,$0.89,https://www.lcsc.com/product-detail/C92966.html
+28,R15,R_0603_1608Metric,1,47K,100,$0.14,https://www.lcsc.com/product-detail/C105579.html
+29,U3,SON50P200X200X60-9N,1,ADP124ACPZ-3.3-R7,3,$4.27,https://www.lcsc.com/product-detail/C658731.html
+30,R9,SOT-323T_ROM,1,RTF025N03TL,5,$1.56,https://www.lcsc.com/product-detail/C3281999.html
+31,C3,C_0603_1608Metric,1,4.7uF,50,$0.28,https://www.lcsc.com/product-detail/C1705.html
+32,"Q2,Q1",SOT-23,2,AO3401A,20,$0.71,https://www.lcsc.com/product-detail/C5296722.html
+33,U1,SOT65P210X110-3N,1,ADM803SAKSZ-REEL,5,$0.93,https://www.lcsc.com/product-detail/C52146012.html
+34,E-ink display,N/A,1,HINK-E042A31-A1 4.2inch E-Ink,,$15.20,https://www.aliexpress.com/item/1005006894281685.html?spm=a2g0o.cart.0.0.608738daADq6GB&mp=1&pdp_npi=6%40dis%21USD%21USD%2016.00%21USD%2015.20%21%21USD%2015.20%21%21%21%40211b441e17698975892792130ecd92%2112000038642259216%21ct%21DK%217012912093%21%211%210%21
+35,PCB,N/A,5,JLCPCB,,$4.00,
+,,,,,Total with shipping:,$65.54,
