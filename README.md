@@ -1,4 +1,4 @@
-[BOM - Room-smart-screen.csv](https://github.com/user-attachments/files/25024672/BOM.-.Room-smart-screen.csv)[BOM - Room-smart-screen.csv](https://github.com/user-attachments/files/25024666/BOM.-.Room-smart-screen.csv)# Smart-room-Screen
+# Smart-room-Screen
 
 When i usually wake up, i usually look on my phone screen to see the clock, and then i open my social media and do other stuff, which i honestly want to prevent. Therefore i have thought to make a e-ink display on the table next to me, so that i can see the clock and weather directly from my bed when i turn on my night light.
 
@@ -17,7 +17,8 @@ The finished PCB looks like this:
 
 <img width="878" height="469" alt="Screenshot 2026-02-02 at 21 28 54" src="https://github.com/user-attachments/assets/f792370d-e183-4c49-be78-beba454ded84" />
 
-BOM
+
+#BOM (scroll to the right to see the links):
 
 |Id |Designator               |Footprint                            |Quantity|Comment                      |LCSC quantity       |Price |Link                                                                                                                                                                                                                                                              |
 |---|-------------------------|-------------------------------------|--------|-----------------------------|--------------------|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
