@@ -1,4 +1,4 @@
-[BOM - Room-smart-screen.csv](https://github.com/user-attachments/files/25024666/BOM.-.Room-smart-screen.csv)# Smart-room-Screen
+[BOM - Room-smart-screen.csv](https://github.com/user-attachments/files/25024672/BOM.-.Room-smart-screen.csv)[BOM - Room-smart-screen.csv](https://github.com/user-attachments/files/25024666/BOM.-.Room-smart-screen.csv)# Smart-room-Screen
 
 When i usually wake up, i usually look on my phone screen to see the clock, and then i open my social media and do other stuff, which i honestly want to prevent. Therefore i have thought to make a e-ink display on the table next to me, so that i can see the clock and weather directly from my bed when i turn on my night light.
 
@@ -19,7 +19,7 @@ The finished PCB looks like this:
 
 BOM
 
-[Uploading BOM - Room-smaId,Designator,Footprint,Quantity,Comment,LCSC quantity,Price,Link
+Id,Designator,Footprint,Quantity,Comment,LCSC quantity,Price,Link
 1,"C1,C2,C4",C_0603_1608Metric,3,10uF,10,$0.41,https://www.lcsc.com/product-detail/C342875.html
 2,"CR3,CR1,CR2",CR_R1_00001_PNJ,3,SS2040FL_R1_00001,10,$0.65,https://www.lcsc.com/product-detail/C7320202.html
 3,R14,R_0805_2012Metric,2,0.47R,100,$0.48,https://www.lcsc.com/product-detail/C2930220.html
@@ -53,4 +53,5 @@ BOM
 33,U1,SOT65P210X110-3N,1,ADM803SAKSZ-REEL,5,$0.93,https://www.lcsc.com/product-detail/C52146012.html
 34,E-ink display,N/A,1,HINK-E042A31-A1 4.2inch E-Ink,,$15.20,https://www.aliexpress.com/item/1005006894281685.html?spm=a2g0o.cart.0.0.608738daADq6GB&mp=1&pdp_npi=6%40dis%21USD%21USD%2016.00%21USD%2015.20%21%21USD%2015.20%21%21%21%40211b441e17698975892792130ecd92%2112000038642259216%21ct%21DK%217012912093%21%211%210%21
 35,PCB,N/A,5,JLCPCB,,$4.00,
-,,,,,Total with shipping:,$65.54,rt-screen.csv…]()
+,,,,,Total with shipping:,$65.54,
+
