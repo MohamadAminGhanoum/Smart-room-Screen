@@ -18,6 +18,14 @@ The finished PCB looks like this:
 <img width="878" height="469" alt="Screenshot 2026-02-02 at 21 28 54" src="https://github.com/user-attachments/assets/f792370d-e183-4c49-be78-beba454ded84" />
 
 
+The rendering files or CAD files with/without the screen(The screen is the same size, but not the same type as the one in aliexpress):
+
+<img width="732" height="346" alt="Screenshot 2026-02-05 at 20 54 39" src="https://github.com/user-attachments/assets/d3373f46-3554-40fb-aa09-a77d77e2c8a3" />
+<img width="430" height="421" alt="Screenshot 2026-02-05 at 20 56 48" src="https://github.com/user-attachments/assets/2b2730d1-9cf3-4d55-b9f5-85c1e5c57255" />
+<img width="417" height="443" alt="Screenshot 2026-02-05 at 21 09 17" src="https://github.com/user-attachments/assets/8bb0c5d4-43a8-4ed1-b38f-64950eb030cb" />
+
+
+
 #BOM (scroll to the right to see the links):
 
 |Id |Designator               |Footprint                            |Quantity|Comment                      |LCSC quantity       |Price |Link                                                                                                                                                                                                                                                              |
