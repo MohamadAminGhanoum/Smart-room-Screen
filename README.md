@@ -63,7 +63,22 @@ The rendering files or CAD files with/without the screen(The screen is the same 
 |31 |C3                       |C_0603_1608Metric                    |1       |4.7uF                        |50                  |$0.28 |https://www.lcsc.com/product-detail/C1705.html                                                                                                                                                                                                                    |
 |32 |Q2,Q1                    |SOT-23                               |2       |AO3401A                      |20                  |$0.71 |https://www.lcsc.com/product-detail/C5296722.html                                                                                                                                                                                                                 |
 |33 |U1                       |SOT65P210X110-3N                     |1       |ADM803SAKSZ-REEL             |5                   |$0.93 |https://www.lcsc.com/product-detail/C52146012.html                                                                                                                                                                                                                |
-|34 |E-ink display            |N/A                                  |1       |HINK-E042A31-A1 4.2inch E-Ink|                    |$15.20|https://www.aliexpress.com/item/1005006894281685.html?spm=a2g0o.cart.0.0.608738daADq6GB&mp=1&pdp_npi=6%40dis%21USD%21USD%2016.00%21USD%2015.20%21%21USD%2015.20%21%21%21%40211b441e17698975892792130ecd92%2112000038642259216%21ct%21DK%217012912093%21%211%210%21|
-|35 |PCB                      |N/A                                  |5       |JLCPCB                       |                    |$4.00 |                                                                                                                                                                                                                                                                  |
-|   |                         |                                     |        |                             |Total with shipping:|$65.54|                                                                                                                                                                                                                                                                  |
+|34 |E-ink display            |N/A                                  |1       |HINK-E042A31-A1 4.2inch E-Ink|                    |$16.00|https://www.aliexpress.com/item/1005006894281685.html?spm=a2g0o.cart.0.0.608738daADq6GB&mp=1&pdp_npi=6%40dis%21USD%21USD%2016.00%21USD%2015.20%21%21USD%2015.20%21%21%21%40211b441e17698975892792130ecd92%2112000038642259216%21ct%21DK%217012912093%21%211%210%21|
+|35 |803040 LiPo              |N/A                                  |1       |803040 LiPo battery + protection|                    |$9.35|https://www.aliexpress.com/item/32583451110.html?spm=a2g0o.cart.0.0.293238daL2KxmU&mp=1&pdp_npi=6%40dis%21USD%21USD%203.47%21USD%203.47%21%21USD%203.47%21%21%21%40211b80d117703247858814903e1024%2158741290093%21ct%21DK%217012912093%21%211%210%21|
+|36 |PCB                      |N/A                                  |5       |JLCPCB                       |                    |$4.00 |                                                                                                                                                                                                                                                                  |
+|   |                         |                                     |        |                             |Total with shipping:|$74.89|                                                                                                                                                                                                                                                                  |
 
+
+BOM Cart Pictures:
+-----------------------
+
+- Aliexpres:
+![Screenshot_5-2-2026_214838_www aliexpress com](https://github.com/user-attachments/assets/479ead52-8390-4b88-9e4d-37a73bbbcdd5)
+
+- JLCPCB:
+![Screenshot_5-2-2026_214813_cart jlcpcb com](https://github.com/user-attachments/assets/e05e217e-229f-4b0e-96e8-cf0cdaff5474)
+![Screenshot_5-2-2026_214619_cart jlcpcb com](https://github.com/user-attachments/assets/56633f45-3999-47b4-a3b3-5893ed683ce3)
+
+LCSC Electronics:
+![Screenshot_5-2-2026_214444_www lcsc com](https://github.com/user-attachments/assets/83d7cf21-4217-485e-bb32-ad49b76bd86e)
+![Screenshot_5-2-2026_214611_www lcsc com](https://github.com/user-attachments/assets/5feca468-17bf-4f16-820f-2de36a0e9abc)
