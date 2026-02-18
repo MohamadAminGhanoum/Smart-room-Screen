@@ -18,7 +18,8 @@ The finished schematics:
 
 The finished PCB looks like this:
 
-<img width="878" height="469" alt="Screenshot 2026-02-02 at 21 28 54" src="https://github.com/user-attachments/assets/f792370d-e183-4c49-be78-beba454ded84" />
+<img width="880" height="461" alt="Screenshot 2026-02-18 at 13 43 28" src="https://github.com/user-attachments/assets/1a4df9e7-75da-4f0e-870c-3dbc720477e7" />
+
 
 
 The rendering files or CAD files with/without the screen(The screen is the same size, but not the same type as the one in aliexpress):
