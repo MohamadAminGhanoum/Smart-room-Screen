@@ -20,12 +20,12 @@ This project will allow me to see the time, and through the HTU21D, i can see th
 (I will somehow try to connect this to one of my previous projects, where i made a mini smart-home, where i controlled the brightness of the LED and automated opening/ closing the Curtain. I will most likely do future updates on that projects so it becomes possible to connect them.)
 
 
-The finished schematics:
+## The finished schematics:
 
 <img width="703" height="479" alt="Screenshot 2026-02-02 at 21 25 05" src="https://github.com/user-attachments/assets/3da24c5d-f7ad-4922-a1fc-bd744c7186a2" />
 
 
-The finished PCB looks like this:
+## The finished PCB looks like this:
 
 <img width="880" height="461" alt="Screenshot 2026-02-18 at 13 43 28" src="https://github.com/user-attachments/assets/1a4df9e7-75da-4f0e-870c-3dbc720477e7" />
 
@@ -38,7 +38,7 @@ The rendering files or CAD files with/without the screen(The screen is the same 
 
 
 
-#BOM (scroll to the right to see the links):
+## BOM (scroll to the right to see the links):
 
 |Id |Designator               |Footprint                            |Quantity|Comment                            |LCSC quantity                           |Price |Link                                                                                                                                                                                                                                                                                                                                             |
 |---|-------------------------|-------------------------------------|--------|-----------------------------------|----------------------------------------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
