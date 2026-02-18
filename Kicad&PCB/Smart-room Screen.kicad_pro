@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.65,
-          "height": 0.65,
-          "width": 0.65
+          "drill": 0.2,
+          "height": 0.4,
+          "width": 0.4
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -58,24 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "hole_clearance|188330000|34110000|4911aad7-6fd0-465d-903a-667e87d91c68|273cb7b2-8b93-4c3a-8bb3-c14a47b18dc3",
-          "USB-C mounting hole to GND pad"
-        ],
-        [
-          "hole_clearance|188530000|34110000|4911aad7-6fd0-465d-903a-667e87d91c68|92a504d0-300a-468e-b816-4dcd6ecb0e21",
-          "USB-C mounting hole to GND pad"
-        ],
-        [
-          "hole_clearance|193930000|34110000|9cc18058-db5f-44e5-bdc6-34316ef5992b|33c5146c-64f2-487a-941b-7076c8c9c620",
-          "USB-C mounting hole to GND pad"
-        ],
-        [
-          "hole_clearance|194130000|34110000|9cc18058-db5f-44e5-bdc6-34316ef5992b|6c54f2b5-daba-4ad6-8e9e-bcdb2074b53c",
-          "USB-C mounting hole to GND pad"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -517,10 +500,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../Downloads/Smart-room Screen-pcb making/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Smart-room Screen.step",
+      "step": "../../../Downloads/Smart-room Screen-step2.step",
       "svg": "",
       "vrml": ""
     },
