@@ -23,10 +23,9 @@ The finished PCB looks like this:
 
 
 The rendering files or CAD files with/without the screen(The screen is the same size, but not the same type as the one in aliexpress):
-
-<img width="732" height="346" alt="Screenshot 2026-02-05 at 20 54 39" src="https://github.com/user-attachments/assets/d3373f46-3554-40fb-aa09-a77d77e2c8a3" />
-<img width="430" height="421" alt="Screenshot 2026-02-05 at 20 56 48" src="https://github.com/user-attachments/assets/2b2730d1-9cf3-4d55-b9f5-85c1e5c57255" />
-<img width="417" height="443" alt="Screenshot 2026-02-05 at 21 09 17" src="https://github.com/user-attachments/assets/8bb0c5d4-43a8-4ed1-b38f-64950eb030cb" />
+<img width="266" height="275" alt="Screenshot 2026-02-18 at 15 40 36" src="https://github.com/user-attachments/assets/407d120b-0be7-4992-be3b-c63b7da2a9f8" />
+<img width="351" height="422" alt="Screenshot 2026-02-18 at 15 44 37" src="https://github.com/user-attachments/assets/afa58669-c5b2-4df1-8d9f-5f0db4e6824b" />
+<img width="370" height="458" alt="Screenshot 2026-02-18 at 15 45 00" src="https://github.com/user-attachments/assets/fc0242f1-8487-45ea-a648-bead0e325d5a" />
 
 
 
