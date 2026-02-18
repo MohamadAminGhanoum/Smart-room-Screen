@@ -11,6 +11,15 @@ I started by researching and mostly gained info about the style and how to conne
 
 Note: the firmware right now is untested, i will do an update for the firmware when this gets approved.
 
+
+How to use this:
+-----------------
+This is pretty simple to use, after soldering all the parts on the pcb, it is possible to see the board as a devboard, with some additional components, such as the connector for the E-ink display. The code is flashed normally into the board using the usb-c, and then it is possible to make it work over wifi if wanted, or i can also use this with only the sensor, and the time would be saved, since it is connected through a battery.
+
+This project will allow me to see the time, and through the HTU21D, i can see the temperature and humidity in my room. 
+(I will somehow try to connect this to one of my previous projects, where i made a mini smart-home, where i controlled the brightness of the LED and automated opening/ closing the Curtain. I will most likely do future updates on that projects so it becomes possible to connect them.)
+
+
 The finished schematics:
 
 <img width="703" height="479" alt="Screenshot 2026-02-02 at 21 25 05" src="https://github.com/user-attachments/assets/3da24c5d-f7ad-4922-a1fc-bd744c7186a2" />
