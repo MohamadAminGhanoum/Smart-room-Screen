@@ -77,12 +77,17 @@ BOM Cart Pictures:
 -----------------------
 
 - Aliexpres:
-![Screenshot_5-2-2026_214838_www aliexpress com](https://github.com/user-attachments/assets/479ead52-8390-4b88-9e4d-37a73bbbcdd5)
+<img width="1247" height="613" alt="Screenshot 2026-02-18 at 16 09 30" src="https://github.com/user-attachments/assets/db942010-eb4d-48a7-9351-5ca4b9c6b09d" />
+<img width="1247" height="613" alt="Screenshot 2026-02-18 at 16 09 30" src="https://github.com/user-attachments/assets/db942010-eb4d-48a7-9351-5ca4b9c6b09d" />
+
 
 - JLCPCB:
-![Screenshot_5-2-2026_214813_cart jlcpcb com](https://github.com/user-attachments/assets/e05e217e-229f-4b0e-96e8-cf0cdaff5474)
+<img width="1259" height="466" alt="Screenshot 2026-02-18 at 16 07 44" src="https://github.com/user-attachments/assets/1cb523da-cf50-4817-a496-ddb1d7049d92" />
+<img width="1259" height="466" alt="Screenshot 2026-02-18 at 16 07 44" src="https://github.com/user-attachments/assets/1cb523da-cf50-4817-a496-ddb1d7049d92" />
+
 ![Screenshot_5-2-2026_214619_cart jlcpcb com](https://github.com/user-attachments/assets/56633f45-3999-47b4-a3b3-5893ed683ce3)
 
 LCSC Electronics:
-![Screenshot_5-2-2026_214444_www lcsc com](https://github.com/user-attachments/assets/83d7cf21-4217-485e-bb32-ad49b76bd86e)
+![Screenshot_18-2-2026_161658_www lcsc com](https://github.com/user-attachments/assets/5c073189-6c6a-49b6-b65e-8953f7adee12)
+![Screenshot_18-2-2026_161658_www lcsc com](https://github.com/user-attachments/assets/5c073189-6c6a-49b6-b65e-8953f7adee12)
 ![Screenshot_5-2-2026_214611_www lcsc com](https://github.com/user-attachments/assets/5feca468-17bf-4f16-820f-2de36a0e9abc)
