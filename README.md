@@ -32,6 +32,7 @@ This project will allow me to see the time, and through the HTU21D, i can see th
 
 
 The rendering files or CAD files with/without the screen(The screen is the same size, but not the same type as the one in aliexpress):
+
 <img width="266" height="275" alt="Screenshot 2026-02-18 at 15 40 36" src="https://github.com/user-attachments/assets/407d120b-0be7-4992-be3b-c63b7da2a9f8" />
 <img width="351" height="422" alt="Screenshot 2026-02-18 at 15 44 37" src="https://github.com/user-attachments/assets/afa58669-c5b2-4df1-8d9f-5f0db4e6824b" />
 <img width="370" height="458" alt="Screenshot 2026-02-18 at 15 45 00" src="https://github.com/user-attachments/assets/fc0242f1-8487-45ea-a648-bead0e325d5a" />
