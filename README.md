@@ -80,20 +80,3 @@ The rendering files or CAD files with/without the screen(The screen is the same 
 |37 |Threaded inserts         |N/A                                  |4       |Aliexpress                         |                                        |$2.19 |https://www.aliexpress.com/item/1005007640664497.html?spm=a2g0o.cart.0.0.6cb038da4XBX2l&mp=1&pdp_npi=6%40dis%21USD%21USD%202.29%21USD%202.19%21%21USD%202.19%21%21%21%40211b80e117714266379736195e7f10%2112000041610082721%21ct%21DK%217012912093%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D|
 |   |                         |                                     |        |                                   |                                        |      |                                                                                                                                                                                                                                                                                                                                                 |
 |   |                         |                                     |        |                                   |Total with shipping, 3d printing legion:|$82.01|                                                                                                                                                                                                                                                                                                                                                 |
-
-
-
-BOM Cart Pictures:
------------------------
-
-- Aliexpres:
-<img width="1247" height="613" alt="Screenshot 2026-02-18 at 16 09 30" src="https://github.com/user-attachments/assets/db942010-eb4d-48a7-9351-5ca4b9c6b09d" />
-
-
-- JLCPCB:
-<img width="1259" height="466" alt="Screenshot 2026-02-18 at 16 07 44" src="https://github.com/user-attachments/assets/1cb523da-cf50-4817-a496-ddb1d7049d92" />
-![Screenshot_5-2-2026_214619_cart jlcpcb com](https://github.com/user-attachments/assets/56633f45-3999-47b4-a3b3-5893ed683ce3)
-
-LCSC Electronics:
-![Screenshot_18-2-2026_161658_www lcsc com](https://github.com/user-attachments/assets/5c073189-6c6a-49b6-b65e-8953f7adee12)
-![Screenshot_5-2-2026_214611_www lcsc com](https://github.com/user-attachments/assets/5feca468-17bf-4f16-820f-2de36a0e9abc)
