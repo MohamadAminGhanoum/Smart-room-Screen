@@ -5,7 +5,8 @@ When i usually wake up, i usually look on my phone screen to see the clock, and 
 ## Final look:
 <img width="3456" height="4608" alt="IMG_20260627_193051" src="https://github.com/user-attachments/assets/b9a78f39-43f5-417f-a179-e7a856816e7d" />
 
-
+## DEMO
+https://www.youtube.com/shorts/77qMShZQf_g
 
 <img width="866" height="399" alt="Screenshot 2026-02-18 at 13 41 27" src="https://github.com/user-attachments/assets/66afc7c6-4bf2-4e2d-8806-1d9f58b539c1" />
 
